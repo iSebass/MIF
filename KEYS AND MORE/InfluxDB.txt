@@ -1,0 +1,7 @@
+API KEY: 7qdsGxxXgz6lfA33NZ-KQs5DpHPf5QC1PVFGhqjjKHdR01QRkCMs2AOLJ83KmkevCBpX0hwvXC8YgrvT_1LTHA==
+
+Bucket:  EstacionMIF_Bucket
+Organizacion: EstacionMIF
+
+user: admin
+pass: adminadmin
